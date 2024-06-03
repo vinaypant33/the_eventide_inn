@@ -1,2 +1,3 @@
-# the_eventide_inn
-Hotel and Banquet Management - Game done in Godot and Pygame
+# The Eventide Inn 
+
+Hotel Management Game Built in - Pygame and Godot
